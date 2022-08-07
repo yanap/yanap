@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yanap
-- 👀 I’m interested in UE5.
-- 🌱 I’m currently learning English.
+- 👀 I’m interested in Go.
+- 🌱 I’m currently learning English and Go.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
