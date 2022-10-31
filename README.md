@@ -2,7 +2,7 @@
 - 👀 I’m interested in Go.
 - 🌱 I’m currently learning English and Go. https://connpass.com/user/yanap/
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/masahiro-yanai-09504645/
 
 
 <!---
