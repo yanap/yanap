@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @yanap
 - 👀 I’m interested in Go.
-- 🌱 I’m currently learning English and Go.
+- 🌱 I’m currently learning English and Go. https://connpass.com/user/yanap/
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
 
 <!---
 yanap/yanap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
